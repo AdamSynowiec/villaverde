@@ -1,0 +1,195 @@
+{
+  "page": {
+    "seo": {
+      "title": "",
+      "ogImage": "",
+      "ogTitle": "VillaVerde-Wola.pl - Domy w zielonej części Woli Justowskiej",
+      "description": "Villa Verde — domy w zielonej części Woli Justowskiej Nowoczesna architektura, naturalne materiały i światło, które towarzyszy na co dzień. Wybierz dom w miejscu, gdzie spokój otoczenia łączy się z wygodą miasta.",
+      "twitterCard": "",
+      "ogDescription": "Villa Verde — domy w zielonej części Woli Justowskiej Nowoczesna architektura, naturalne materiały i światło, które towarzyszy na co dzień. Wybierz dom w miejscu, gdzie spokój otoczenia łączy się z wygodą miasta."
+    },
+    "slug": "/",
+    "title": "",
+    "sections": [
+      {
+        "id": "{11589fb8-bbe0-4ff1-b273-c1e5d5ecb904}",
+        "component": "Hero",
+        "type": "section",
+        "label": "Hero",
+        "fields": {}
+      },
+      {
+        "id": "{fb37664e-4763-4b28-9a85-d7dcd84d1be9}",
+        "component": "AboutUs",
+        "type": "section",
+        "label": "AboutUs",
+        "fields": {}
+      },
+      {
+        "id": "{f84b534e-6b6d-4d54-8042-277ce0c96a22}",
+        "component": "Feature",
+        "type": "section",
+        "label": "Feature",
+        "fields": {
+          "image": {
+            "type": "asset",
+            "value": "https://villaverde-wola.pl/upload/images/villaverde-vis-1.png"
+          },
+          "title": {
+            "type": "text",
+            "value": "Domy, które zachwycają harmonią i przestrzenią"
+          },
+          "content": {
+            "type": "text",
+            "value": "Każda bryła została zaprojektowana inaczej, zachowując wspólną linię estetyczną. Prosty, konsekwentny projekt stawia na czytelne formy, dobre proporcje i naturalne materiały. Dzięki temu architektura pozostaje ponadczasowa i harmonijnie współgra z otoczeniem."
+          },
+          "featureList": {
+            "type": "list",
+            "value": [
+              {
+                "icon": "https://villaverde-wola.pl/upload/images/icon-map.svg",
+                "text": "Prestiżowa lokalizacja Wola Justowska"
+              },
+              {
+                "icon": "https://villaverde-wola.pl/upload/images/icon-cube.svg",
+                "text": "Funkcjonalne układy"
+              },
+              {
+                "icon": "https://villaverde-wola.pl/upload/images/icon-nature.svg",
+                "text": "Naturalne materiały"
+              },
+              {
+                "icon": "https://villaverde-wola.pl/upload/images/icon-diamond.svg",
+                "text": "Niepowtarzalny design"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "{02d27f47-6d98-41bf-9181-c09af4d30b4f}",
+        "component": "Feature",
+        "type": "section",
+        "label": "Feature",
+        "fields": {
+          "image": {
+            "type": "asset",
+            "value": "https://villaverde-wola.pl/upload/images/villaverde-vis-2.png"
+          },
+          "title": {
+            "type": "text",
+            "value": "Więcej niż dom. To przestrzeń, w której dobrze się żyje."
+          },
+          "content": {
+            "type": "text",
+            "value": "Taras i ogród wpisano w codzienny scenariusz domu. Akcenty z naturalnego drewna ocieplają jasną elewację, zachowując spójność kompozycji. Duże okna zapewniają lepsze doświetlenie i widok na zieleń."
+          },
+          "featureList": {
+            "type": "list",
+            "value": [
+              {
+                "icon": "https://villaverde-wola.pl/upload/images/icon-home.svg",
+                "text": "Drewno i szkło w harmonii z otoczeniem"
+              },
+              {
+                "icon": "https://villaverde-wola.pl/upload/images/icon-window.svg",
+                "text": "Duże okna wprowadzają do wnętrz naturalne światło"
+              },
+              {
+                "icon": "https://villaverde-wola.pl/upload/images/icon-plant.svg",
+                "text": "Ogród jako przedłużenie domu"
+              },
+              {
+                "icon": "https://villaverde-wola.pl/upload/images/icon-leaf.svg",
+                "text": "Blisko natury"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "{874c18b3-2014-456a-b290-5fb5175287c6}",
+        "component": "Feature",
+        "type": "section",
+        "label": "Feature",
+        "fields": {
+          "image": {
+            "type": "asset",
+            "value": "https://villaverde-wola.pl/upload/images/villaverde-vis-3.png"
+          },
+          "title": {
+            "type": "text",
+            "value": "Cisza, natura, bliskość wszystkiego, co ważne."
+          },
+          "content": {
+            "type": "text",
+            "value": "Każdy dom w Villa Verde to połączenie nowoczesnej formy z naturalnymi materiałami. Projekt dopracowany przez doświadczonych architektów i wykonany z dbałością o każdy detal. Efekt? Miejsce, które zachwyca dziś i będzie zachwycać przez lata."
+          },
+          "featureList": {
+            "type": "list",
+            "value": [
+              {
+                "icon": "https://villaverde-wola.pl/upload/images/icon-guard.svg",
+                "text": "Staranność w każdym calu"
+              },
+              {
+                "icon": "https://villaverde-wola.pl/upload/images/icon-star.svg",
+                "text": "Unikalne akcenty"
+              },
+              {
+                "icon": "https://villaverde-wola.pl/upload/images/icon-tree.svg",
+                "text": "Panoramiczne widoki"
+              },
+              {
+                "icon": "https://villaverde-wola.pl/upload/images/icon-x.svg",
+                "text": " Miejsce, które zachwyca"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "{a7b0168a-c16e-4688-b32f-f9690da2d38d}",
+        "component": "Houses",
+        "type": "section",
+        "label": "Houses",
+        "fields": {}
+      },
+      {
+        "id": "{06a5a13f-16e3-4eb4-9a81-5a8a74943de3}",
+        "component": "Gallery",
+        "type": "section",
+        "label": "Gallery",
+        "fields": {}
+      },
+      {
+        "id": "{3e49f2c3-6322-423c-9434-a794b95130b8}",
+        "component": "Localization",
+        "type": "section",
+        "label": "Localization",
+        "fields": {}
+      },
+      {
+        "id": "{86ebb62a-c559-46ab-8a86-3dcb8d6ce092}",
+        "component": "Cta",
+        "type": "section",
+        "label": "Cta",
+        "fields": {}
+      },
+      {
+        "id": "{98d60a84-cdce-4a48-96cc-9b13fc51c49f}",
+        "component": "Contact",
+        "type": "section",
+        "label": "Contact",
+        "fields": {}
+      },
+      {
+        "id": "{05aa713d-f1f3-4b73-9a1c-b95a12818b64}",
+        "component": "Footer",
+        "type": "section",
+        "label": "Footer",
+        "fields": {}
+      }
+    ]
+  }
+}
