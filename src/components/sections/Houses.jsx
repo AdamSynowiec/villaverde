@@ -141,7 +141,7 @@ const Houses = () => {
 
     return (
         <>
-            <div className='py-[50px] lg::py-[100px] bg-[#1C1D21]'>
+            <div className='py-[50px] lg:py-[100px] bg-[#1C1D21]'>
                 <div id="Plan Zagospodarowania" />
                 <Container>
                     <div className="grid grid-cols-1 lg::grid-cols-2">
@@ -150,7 +150,7 @@ const Houses = () => {
                         </div>
                         <div>
                             <h3 className='text-[#C8A35F] font-ebgaramond-regular text-[32px] lg::text-[60px] lg::text-right'>
-                                — TWOJE MIEJCE CZEKA ZOBACZ OFERTE
+                                - TWOJE MIEJCE CZEKA  NA CIEBIE ZOBACZ OFERTĘ
                             </h3>
                         </div>
                     </div>
@@ -255,13 +255,13 @@ const Houses = () => {
                 <div id="Oferta domów" />
                 <div className='py-[50px] lg:py-[100px] bg-[#1C1D21]'>
                     <Container>
-                        <div className="grid grid-cols-1 lg:grid-cols-2">
+                        <div className="grid grid-cols-1 lg::grid-cols-2">
                             <div>
                                 <h2 className='text-white font-ebgaramond-regular text-[64px]'>Lista domów</h2>
                             </div>
                             <div>
-                                <h3 className='text-[#C8A35F] font-ebgaramond-regular text-[32px] lg:text-[60px] lg:text-right'>
-                                    — POBIERZ KARTĘ
+                                <h3 className='text-[#C8A35F] font-ebgaramond-regular text-[32px] lg::text-[60px] lg::text-right'>
+                                    - POBIERZ KARTĘ
                                 </h3>
                             </div>
                         </div>
@@ -344,12 +344,12 @@ const Houses = () => {
                         <div className="grid grid-cols-1 lg:grid-cols-2">
                             <div className="text-center border-b lg:border-b-0 lg:border-r border-[#ccc] pb-[32px] lg:pr-[32px]">
                                 <h2 className='text-[#C8A35F] font-ebgaramond-regular text-[32px] xl:text-[64px] mb-[20px]'>Standard wykończenia</h2>
-                                <p className='text-[#474747] font-ebgaramond-regular text-[26px] text-center mb-[20px]'>Nowoczesna forma, naturalne materiały i perfekcyjnie dopracowane detale – Villa Verde zachwyca dziś i przez lata.</p>
+                                <p className='text-[#474747] font-ebgaramond-regular text-[26px] text-center mb-[20px]'>Nowoczesna forma, naturalne materiały i perfekcyjnie dopracowane detale – Villa Verde zachwyca dziś<br/>i przez lata.</p>
                                 {houses.length > 0 && <a href={`https://villaverde-wola.pl/admin/storage/uploads${houses.length > 0 && houses[0]?.finishStandard?.path}`} target="_blank" className='font-ebgaramond-regular text-[24px] lg:text-[28px] text-[#C8A35F] underline'>Pobierz standard wykończenia</a>}
                             </div>
                             <div className="text-center lg:pl-[32px]">
                                 <h2 className='text-[#C8A35F] font-ebgaramond-regular text-[32px] xl:text-[64px] mb-[20px]'>Prospekt inwestycyjny</h2>
-                                <p className='text-[#474747] font-ebgaramond-regular text-[26px] text-center mb-[20px]'>Cała inwestycja w pigułce – metraże i układy, standard, harmonogram oraz kwestie prawne. Poznaj Villa Verde świadomie, zanim podejmiesz decyzję.</p>
+                                <p className='text-[#474747] font-ebgaramond-regular text-[26px] text-center mb-[20px]'>Cała inwestycja w jednym miejscu –  standard i harmonogram oraz kwestie prawne. Poznaj Villa Verde świadomie, zanim podejmiesz decyzję.</p>
                                 {houses.length > 0 && <a href={`https://villaverde-wola.pl/admin/storage/uploads${houses.length > 0 && houses[0]?.investemntProspectus?.path}`} target="_blank" className='font-ebgaramond-regular text-[24px] lg:text-[28px] text-[#C8A35F] underline'>Pobierz prospekt inwestycyjny</a>}
                             </div>
                         </div>

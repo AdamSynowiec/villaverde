@@ -110,7 +110,7 @@ const Hero = () => {
                             className="relative top-0 -translate-y-1/2 w-auto"
                         />
                         <p className="font-ebgaramond-regular font-light leading-relaxed text-[#C8A35F] text-[32px] lg:text-[32px] lg:text-[50px]">
-                            — NOWOCZESNA FORMA NATURALNE OTOCZENIE
+                            - NOWOCZESNA FORMA NATURALNE OTOCZENIE
                         </p>
                     </div>
                 </Container>

@@ -100,7 +100,7 @@ const Contact = () => {
               <h3 className="text-[#C8A35F] font-ebgaramond-regular text-[64px] mb-[32px]">
                 Kontakt
               </h3>
-              <div className="grid gap-6">
+              <div className="grid gap-3">
                 <ul className="font-ebgaramond-regular font-bold text-[21px] text-[#474747] max-w-2/3">
                   <li>Dane firmowe</li>
                 </ul>
@@ -118,6 +118,21 @@ const Contact = () => {
                 </ul>
                 <ul className="font-ebgaramond-regular font-medium text-[21px] text-[#474747] max-w-2/3">
                   <li>Tel - +48 518 451 555</li>
+                </ul>
+              </div>
+              <div className="mt-6 grid gap-3">
+                <ul className="font-ebgaramond-regular font-bold text-[21px] text-[#474747] max-w-2/3">
+                  <li>Adres biura sprzedaży</li>
+                </ul>
+                <ul className="font-ebgaramond-regular font-medium text-[21px] text-[#474747] max-w-2/3">
+                  <li>Krakowska Grupa Deweloperska</li>
+                </ul>
+                <ul className="font-ebgaramond-regular font-medium text-[21px] text-[#474747] max-w-2/3">
+                  <li>Koło Strzelnicy 2 / 2</li>
+                  <li>30-219 Kraków, Polska</li>
+                </ul>
+                <ul className="font-ebgaramond-regular font-medium text-[21px] text-[#474747] max-w-2/3">
+                  <li>Tel: +48 518 451 555</li>
                 </ul>
               </div>
             </div>

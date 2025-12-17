@@ -49,7 +49,7 @@ const HousePlanMap = () => {
 
     return (
         <>
-            <div className='py-[50px] lg::py-[100px] bg-[#1C1D21]'>
+            <div className='py-[50px] lg:py-[100px] bg-[#1C1D21]'>
                 <div id="Plan Zagospodarowania" />
                 <Container>
                     <div className="grid grid-cols-1 lg::grid-cols-2">
@@ -58,7 +58,7 @@ const HousePlanMap = () => {
                         </div>
                         <div>
                             <h3 className='text-[#C8A35F] font-ebgaramond-regular text-[32px] lg::text-[60px] lg::text-right'>
-                                — TWOJE MIEJCE CZEKA ZOBACZ OFERTE
+                                - TWOJE MIEJCE CZEKA  NA CIEBIE ZOBACZ OFERTĘ
                             </h3>
                         </div>
                     </div>

@@ -4,9 +4,9 @@
       "title": "",
       "ogImage": "",
       "ogTitle": "VillaVerde-Wola.pl - Domy w zielonej części Woli Justowskiej",
-      "description": "Villa Verde — domy w zielonej części Woli Justowskiej Nowoczesna architektura, naturalne materiały i światło, które towarzyszy na co dzień. Wybierz dom w miejscu, gdzie spokój otoczenia łączy się z wygodą miasta.",
+      "description": "Villa Verde - domy w zielonej części Woli Justowskiej. Nowoczesna architektura, naturalne materiały i światło, które towarzyszy na co dzień. Wybierz dom w miejscu, gdzie spokój otoczenia łączy się z wygodą miasta.",
       "twitterCard": "",
-      "ogDescription": "Villa Verde — domy w zielonej części Woli Justowskiej Nowoczesna architektura, naturalne materiały i światło, które towarzyszy na co dzień. Wybierz dom w miejscu, gdzie spokój otoczenia łączy się z wygodą miasta."
+      "ogDescription": "Villa Verde - domy w zielonej części Woli Justowskiej. Nowoczesna architektura, naturalne materiały i światło, które towarzyszy na co dzień. Wybierz dom w miejscu, gdzie spokój otoczenia łączy się z wygodą miasta."
     },
     "slug": "/",
     "title": "",
@@ -37,11 +37,11 @@
           },
           "title": {
             "type": "text",
-            "value": "Domy, które zachwycają harmonią i przestrzenią"
+            "value": "Domy, które zachwycają harmonią i przestrzenią."
           },
           "content": {
             "type": "text",
-            "value": "Każda bryła została zaprojektowana inaczej, zachowując wspólną linię estetyczną. Prosty, konsekwentny projekt stawia na czytelne formy, dobre proporcje i naturalne materiały. Dzięki temu architektura pozostaje ponadczasowa i harmonijnie współgra z otoczeniem."
+            "value": "Każda bryła została zaprojektowana inaczej, zachowując wspólną linię estetyczną. Prosty, konsekwentny projekt stawia na czytelne formy, dobre proporcje i naturalne materiały. Dzięki temu architektura pozostaje  ponadczasowa i harmonijnie współgra z otoczeniem."
           },
           "featureList": {
             "type": "list",
@@ -82,7 +82,7 @@
           },
           "content": {
             "type": "text",
-            "value": "Taras i ogród wpisano w codzienny scenariusz domu. Akcenty z naturalnego drewna ocieplają jasną elewację, zachowując spójność kompozycji. Duże okna zapewniają lepsze doświetlenie i widok na zieleń."
+            "value": "Taras i ogród wpisano w codzienny scenariusz domu. Akcenty z naturalnego drewna ocieplają jasną elewację, zachowując  spójność kompozycji. Duże okna  zapewniają lepsze doświetlenie i widok na zieleń."
           },
           "featureList": {
             "type": "list",
@@ -167,6 +167,13 @@
         "component": "Localization",
         "type": "section",
         "label": "Localization",
+        "fields": {}
+      },
+      {
+        "id": "{f19f5e22-d5d2-44c4-9a77-1aa96a622a61}",
+        "component": "Deweloper",
+        "type": "section",
+        "label": "Deweloper",
         "fields": {}
       },
       {

@@ -1,6 +1,7 @@
 import AboutUs from "./components/sections/AboutUs";
 import Contact from "./components/sections/Contact";
 import Cta from "./components/sections/Cta";
+import Deweloper from "./components/sections/Deweloper";
 import Example from "./components/sections/Example";
 import Feature from "./components/sections/Feature";
 import Footer from "./components/sections/Footer";
@@ -24,6 +25,7 @@ export default function SectionRenderer({ sections }) {
                     case "Gallery": return <Gallery key={section.id} {...section} />;
                     case "Localization": return <Localization key={section.id} {...section} />;
                     case "Cta": return <Cta key={section.id} {...section} />;
+                    case "Deweloper": return <Deweloper key={section.id} {...section} />;
                     case "Contact": return <Contact key={section.id} {...section} />;
                     case "Footer": return <Footer key={section.id} {...section} />;
                     default: return null;

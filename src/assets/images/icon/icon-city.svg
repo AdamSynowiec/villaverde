@@ -1,19 +1,19 @@
-<svg width="81" height="77" viewBox="0 0 81 77" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M4.91406 75.5833V9.33333C4.91406 4.91667 9.33073 0.5 13.7474 0.5H35.8307C40.2474 0.5 44.6641 4.91667 44.6641 9.33333V75.5833" stroke="#A8853F" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M57.9141 18.1665H66.7474C71.1641 18.1665 75.5807 22.5832 75.5807 26.9998V75.5832" stroke="#A8853F" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M0.5 75.5835H80" stroke="#A8853F" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="19.25" cy="19.8335" r="2" fill="#A8853F"/>
-<circle cx="19.25" cy="31.8335" r="2" fill="#A8853F"/>
-<circle cx="54.25" cy="31.8335" r="2" fill="#A8853F"/>
-<circle cx="19.25" cy="45.8335" r="2" fill="#A8853F"/>
-<circle cx="54.25" cy="45.8335" r="2" fill="#A8853F"/>
-<circle cx="54.25" cy="57.8335" r="2" fill="#A8853F"/>
-<circle cx="19.25" cy="57.8335" r="2" fill="#A8853F"/>
-<circle cx="32.25" cy="19.8335" r="2" fill="#A8853F"/>
-<circle cx="32.25" cy="31.8335" r="2" fill="#A8853F"/>
-<circle cx="67.25" cy="31.8335" r="2" fill="#A8853F"/>
-<circle cx="32.25" cy="45.8335" r="2" fill="#A8853F"/>
-<circle cx="67.25" cy="45.8335" r="2" fill="#A8853F"/>
-<circle cx="32.25" cy="57.8335" r="2" fill="#A8853F"/>
-<circle cx="67.25" cy="57.8335" r="2" fill="#A8853F"/>
+<svg width="102" height="96" viewBox="0 0 102 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.11719 95.4994V11.6764C6.11719 6.0882 11.7054 0.5 17.2937 0.5H45.2348C50.8231 0.5 56.4113 6.0882 56.4113 11.6764V95.4994" stroke="#A8853F" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M73.1562 22.8535H84.3327C89.921 22.8535 95.5092 28.4417 95.5092 34.0299V95.5001" stroke="#A8853F" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0.5 95.5H101.088" stroke="#A8853F" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="24.2493" cy="24.9626" rx="2.53052" ry="2.53051" fill="#A8853F"/>
+<ellipse cx="24.2493" cy="40.1448" rx="2.53052" ry="2.53051" fill="#A8853F"/>
+<ellipse cx="68.4915" cy="40.1448" rx="2.53052" ry="2.53051" fill="#A8853F"/>
+<ellipse cx="24.2493" cy="57.8586" rx="2.53052" ry="2.53051" fill="#A8853F"/>
+<ellipse cx="68.4915" cy="57.8586" rx="2.53052" ry="2.53051" fill="#A8853F"/>
+<ellipse cx="68.4915" cy="73.0432" rx="2.53052" ry="2.53051" fill="#A8853F"/>
+<ellipse cx="24.2493" cy="73.0432" rx="2.53052" ry="2.53051" fill="#A8853F"/>
+<ellipse cx="40.6868" cy="24.9626" rx="2.53052" ry="2.53051" fill="#A8853F"/>
+<ellipse cx="40.6868" cy="40.1448" rx="2.53052" ry="2.53051" fill="#A8853F"/>
+<ellipse cx="84.929" cy="40.1448" rx="2.53052" ry="2.53051" fill="#A8853F"/>
+<ellipse cx="40.6868" cy="57.8586" rx="2.53052" ry="2.53051" fill="#A8853F"/>
+<ellipse cx="84.929" cy="57.8586" rx="2.53052" ry="2.53051" fill="#A8853F"/>
+<ellipse cx="40.6868" cy="73.0432" rx="2.53052" ry="2.53051" fill="#A8853F"/>
+<ellipse cx="84.929" cy="73.0432" rx="2.53052" ry="2.53051" fill="#A8853F"/>
 </svg>

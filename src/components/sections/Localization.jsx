@@ -320,11 +320,11 @@ const Localization = () => {
 
     return (
         <div className='bg-white '>
-            <div id="Lokalizacja"/>
+            <div id="Lokalizacja" />
             <div className="py-[50px] lg:py-[100px]">
                 <Container>
                     <h2 className='text-[#474747] font-ebgaramond-regular text-[64px] mb-[40px] text-center'>Lokalizacja</h2>
-                    <p className='font-ebgaramond-regular text-[#474747] text-[26px] text-center max-w-[1200px] mx-auto'>Wola Justowska łączy prestiżowy adres z szybkim dojazdem do centrum i bliskością terenów rekreacyjnych, takich jak Las Wolski, dolina Rudawy czy Błonia. To wybór dla osób szukających kompromisu między energią miasta a spokojem zielonego otoczenia. Z jednej strony korzystasz z miejskich udogodnień—szkół, restauracji i usług—z drugiej cieszysz się ciszą osiedla położonego przy terenach zielonych. Codzienne spacery, rower czy poranna kawa na tarasie stają się tu naturalną częścią rytmu dnia.</p>
+                    <p className='font-ebgaramond-regular text-[#474747] text-[26px] text-center max-w-[1200px] mx-auto'>Wola Justowska łączy prestiżowy adres  z szybkim dojazdem do centrum i bliskością terenów rekreacyjnych, takich jak Las Wolski, dolina  Rudawy czy Błonia. To wybór  dla osób szukających kompromisu  między energią miasta a spokojem zielonego otoczenia. Z jednej strony korzystasz z miejskich udogodnień-szkół, restauracji i usług-z drugiej cieszysz się ciszą osiedla położonego przy  terenach zielonych. Codzienne spacery, rower  czy poranna kawa na tarasie stają się tu naturalną częścią rytmu  dnia.</p>
                 </Container>
             </div>
             <div className="bg-[#FCFCFC] py-[50px] lg:py-[100px]">
@@ -340,19 +340,19 @@ const Localization = () => {
                             <div className="">
                                 <img src={"https://villaverde-wola.pl/upload/images/icon-tree.svg"} alt="" />
                             </div>
-                            <p className='font-ebgaramond-regular text-[#474747] text-[26px] text-center'>Blisko natury, z dala od zgiełku</p>
+                            <p className='font-ebgaramond-regular text-[#474747] text-[26px] text-center'>Blisko natury - z dala od zgiełku</p>
                         </div>
                         <div className="flex items-center flex-col gap-[40px] lg:px-[32px] pb-[32px] lg:pb-0" key="">
                             <div className="">
                                 <img src={"https://villaverde-wola.pl/upload/images/icon-wind.svg"} alt="" />
                             </div>
-                            <p className='font-ebgaramond-regular text-[#474747] text-[26px] text-center'>Przestrzeń do życia i oddechu</p>
+                            <p className='font-ebgaramond-regular text-[#474747] text-[26px] text-center'>Przestrzeń do życia <br />i oddechu</p>
                         </div>
                         <div className="flex items-center flex-col gap-[40px] lg:px-[32px] pb-[32px] lg:pb-0" key="">
                             <div className="">
                                 <img src={"https://villaverde-wola.pl/upload/images/icon-city.svg"} alt="" />
                             </div>
-                            <p className='font-ebgaramond-regular text-[#474747] text-[26px] text-center'>Miasto na wyciągnięcie ręki</p>
+                            <p className='font-ebgaramond-regular text-[#474747] text-[26px] text-center'>Szybki dojazd do centrum <br/>miasta</p>
                         </div>
                     </div>
                 </Container>
